@@ -1,15 +1,15 @@
 Git global setup
 
-git config --global user.name "Александр"
-git config --global user.email "pasik-napas@mail.ru"
+<git config --global user.name "Александр">
+<git config --global user.email "pasik-napas@mail.ru">
 ***
 Create a new repository
 
-git clone https://gitlab.roskomsvoboda.org/web/wp/chcop.git
-cd chcop
-touch README.md
-git add README.md
-git commit -m "add README"
+<[git clone] (https://gitlab.roskomsvoboda.org/web/wp/chcop.git)>
+<cd chcop>
+<touch README.md>
+<git add README.md>
+<git commit -m "add README">
 ***
 Push an existing folder
 
